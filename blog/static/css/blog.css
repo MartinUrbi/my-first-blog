@@ -11,20 +11,19 @@
 }
 
 .content {
-     margin-left: 40px;
+     margin-left: 100px;
 }
 
 h1 {
-  font-family: sans-serif;
+  font-family: cursive;
 }
 
 h2, h3, h4 {
      font-family: 'Lobster', cursive;
 }
 
- .date {
-     float: right;
-     color: #828282;
+body {
+    background-image: url("http://www.tisicovky.cz/exp/sumava/smrcina-hlv43/06707623-0B7D-406C-B3C5-F02E1818E887big.jpg");
 }
 
 .save {
