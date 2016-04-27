@@ -19,7 +19,7 @@ h1 {
 }
 
 h2, h3, h4 {
-     font-family: 'Lobster', cursive;
+     font-family: 'serif', cursive;
 }
 
 body {
@@ -44,7 +44,6 @@ body {
 
  .post {
      margin-bottom: 70px;
-     border: 5px #590505; 
 }
 
  .post h1 a, .post h1 a:visited {
