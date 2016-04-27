@@ -45,8 +45,13 @@ body {
  .post {
      margin-bottom: 70px;
      background-color: white;
+     border: 5 px #16C47C;
 }
 
  .post h1 a, .post h1 a:visited {
      color: #000000;
+}
+
+li {
+  width: 200px;
 }
