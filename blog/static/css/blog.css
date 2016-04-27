@@ -23,16 +23,12 @@ h2, h3, h4 {
 }
 
 body {
-    background-image: url("http://www.wallpapersxl.com/wallpapers/1920x1080/awesome-natural-wallppaper/919832/awesome-natural-wallppaper-forest-beautiful-hd-919832.jpg");
+    background-color: #38D996; 
     background-position: center;
 }
 
 .save {
      float: right;
-}
-
-textarea {
-  background-color: white; 
 }
 
  .post-form textarea, .post-form input {
@@ -48,6 +44,7 @@ textarea {
 
  .post {
      margin-bottom: 70px;
+     background-color: white;
 }
 
  .post h1 a, .post h1 a:visited {
