@@ -33,7 +33,6 @@ body {
 
  .post-form textarea, .post-form input {
      width: 100%;
-     border: 5px #03232E; 
 }
 
  .top-menu, .top-menu:hover, .top-menu:visited {
@@ -45,6 +44,7 @@ body {
 
  .post {
      margin-bottom: 70px;
+     border: 5px #590505; 
 }
 
  .post h1 a, .post h1 a:visited {
