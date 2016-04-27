@@ -31,9 +31,12 @@ body {
      float: right;
 }
 
+textarea {
+  background-color: white; 
+}
+
  .post-form textarea, .post-form input {
      width: 100%;
-     background-color: white; 
 }
 
  .top-menu, .top-menu:hover, .top-menu:visited {
