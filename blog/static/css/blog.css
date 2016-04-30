@@ -55,3 +55,7 @@ body {
 li {
   width: 200px;
 }
+
+#logo {
+  padding: 2px; 
+}
