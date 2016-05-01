@@ -1,6 +1,6 @@
 .page-header {
      background-color: #288c07;
-     margin-top: 0;
+     margin-top: 0px;
      padding: 20px 40px 20px 40px;
 }
 
@@ -23,8 +23,7 @@ h2, h3, h4 {
 }
 
 body {
-    background-image: url("http://www.wallpapersxl.com/wallpapers/1920x1080/awesome-natural-wallppaper/919832/awesome-natural-wallppaper-forest-beautiful-hd-919832.jpg");
-    background-position: center;
+background-color: #20FA86;
 }
 
 .save {
@@ -48,7 +47,7 @@ body {
      border: 5px #16C47C;
 }
 
- .post h1 a, .post h1 a:visited {
+ .post h2 a, .post h2 a:visited {
      color: #000000;
 }
 
@@ -58,4 +57,23 @@ li {
 
 #logo {
   padding: 2px;
+}
+
+.odkaz_na_mapu {
+  position: relative;
+  display: inline-block;
+  float: left;
+  height: 300px;
+  width: 27%;
+  margin: 20px 50px 30px 30px;
+  background-color: white;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 20px;
+  color: #000000;
+}
+
+.odkaz_na_mapu img {
+  height: 100%;
+  width: 100%;
 }
